@@ -10,4 +10,8 @@ public class Pimpage {
 	{
 		System.out.println("Click on Add Emplyoee");
 	}
+	public void createEmployee()
+	{
+		System.out.println("Employee is created.....");
+	}
 }
