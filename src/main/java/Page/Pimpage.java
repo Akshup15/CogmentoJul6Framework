@@ -6,4 +6,8 @@ public class Pimpage {
 	{
 		System.out.println("Click on PIM Page");
 	}
+	public void clickOnAddEmployee()
+	{
+		System.out.println("Click on Add Emplyoee");
+	}
 }
