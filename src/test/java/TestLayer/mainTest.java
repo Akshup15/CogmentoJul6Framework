@@ -15,7 +15,7 @@ public class mainTest {
 		
 		Pimpage pimpage =new Pimpage();
 		pimpage.clickonpimpage();
-		
+		pimpage.clickOnAddEmployee();
 	}
 	
 }
