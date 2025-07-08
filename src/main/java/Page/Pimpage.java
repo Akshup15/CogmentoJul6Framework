@@ -9,7 +9,7 @@ public class Pimpage {
 	
 	public void clickOnAddEmployee()
 	{
-		System.out.println("Clicked on Add Emplyoee button");
+		System.out.println("Clicked on Add Emplyoee Button");
 	}
 	public void createEmployee()
 	{
