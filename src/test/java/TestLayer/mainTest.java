@@ -23,6 +23,8 @@ public class mainTest {
 		pimpage.AddmoreEmployeeDetails();
 
 		pimpage.SearchEmployee();
+		
+		pimpage.deleteEmployee();
 	}
 	
 }
