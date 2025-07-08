@@ -4,11 +4,12 @@ public class Pimpage {
 
 	public void clickonpimpage()
 	{
-		System.out.println("Click on PIM Page");
+		System.out.println("Clicked on PIM Link");
 	}
+	
 	public void clickOnAddEmployee()
 	{
-		System.out.println("Click on Add Emplyoee");
+		System.out.println("Clicked on Add Emplyoee button");
 	}
 	public void createEmployee()
 	{
