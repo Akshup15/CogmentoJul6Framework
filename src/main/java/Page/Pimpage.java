@@ -13,6 +13,6 @@ public class Pimpage {
 	}
 	public void createEmployee()
 	{
-		System.out.println("Employee is created.....");
+		System.out.println("Employees are created.....");
 	}
 }
