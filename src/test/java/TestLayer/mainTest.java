@@ -21,6 +21,8 @@ public class mainTest {
 		pimpage.createEmployee();
 		
 		pimpage.AddmoreEmployeeDetails();
+
+		pimpage.SearchEmployee();
 	}
 	
 }

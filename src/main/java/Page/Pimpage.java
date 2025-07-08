@@ -19,4 +19,8 @@ public class Pimpage {
 	{
 		System.out.println("Add Employee more details ");
 	}
+	public void SearchEmployee()
+	{
+		System.out.println("Search Employee");
+	}
 }
