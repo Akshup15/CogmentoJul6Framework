@@ -19,6 +19,8 @@ public class mainTest {
 		pimpage.clickOnAddEmployee();
 		
 		pimpage.createEmployee();
+		
+		pimpage.AddmoreEmployeeDetails();
 	}
 	
 }
