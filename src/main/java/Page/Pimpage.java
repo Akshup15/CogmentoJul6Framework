@@ -23,4 +23,8 @@ public class Pimpage {
 	{
 		System.out.println("Search Employee");
 	}
+	public void deleteEmployee()
+	{
+		System.out.println("Delete Employee");
+	}
 }
